@@ -1,0 +1,16 @@
+C:\xampp\htdocs\APIRest\src\main\java\com\oficinamecanica\apirest\controller\ItemController.java
+C:\xampp\htdocs\APIRest\src\main\java\com\oficinamecanica\apirest\controller\OrdemServicoController.java
+C:\xampp\htdocs\APIRest\src\main\java\com\oficinamecanica\apirest\controller\OS_ItemController.java
+C:\xampp\htdocs\APIRest\src\main\java\com\oficinamecanica\apirest\controller\PessoaController.java
+C:\xampp\htdocs\APIRest\src\main\java\com\oficinamecanica\apirest\controller\VeiculoController.java
+C:\xampp\htdocs\APIRest\src\main\java\com\oficinamecanica\apirest\DemoApplication.java
+C:\xampp\htdocs\APIRest\src\main\java\com\oficinamecanica\apirest\entity\Item.java
+C:\xampp\htdocs\APIRest\src\main\java\com\oficinamecanica\apirest\entity\OrdemServico.java
+C:\xampp\htdocs\APIRest\src\main\java\com\oficinamecanica\apirest\entity\OS_Item.java
+C:\xampp\htdocs\APIRest\src\main\java\com\oficinamecanica\apirest\entity\Pessoa.java
+C:\xampp\htdocs\APIRest\src\main\java\com\oficinamecanica\apirest\entity\Veiculo.java
+C:\xampp\htdocs\APIRest\src\main\java\com\oficinamecanica\apirest\service\ItemService.java
+C:\xampp\htdocs\APIRest\src\main\java\com\oficinamecanica\apirest\service\OrdemServicoService.java
+C:\xampp\htdocs\APIRest\src\main\java\com\oficinamecanica\apirest\service\OS_ItemService.java
+C:\xampp\htdocs\APIRest\src\main\java\com\oficinamecanica\apirest\service\PessoaService.java
+C:\xampp\htdocs\APIRest\src\main\java\com\oficinamecanica\apirest\service\VeiculoService.java
